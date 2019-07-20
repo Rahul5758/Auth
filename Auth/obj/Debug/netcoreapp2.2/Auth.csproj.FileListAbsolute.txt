@@ -1,0 +1,14 @@
+C:\Users\t-rathap\source\repos\Auth\bin\Debug\netcoreapp2.2\Auth.deps.json
+C:\Users\t-rathap\source\repos\Auth\bin\Debug\netcoreapp2.2\Auth.runtimeconfig.json
+C:\Users\t-rathap\source\repos\Auth\bin\Debug\netcoreapp2.2\Auth.runtimeconfig.dev.json
+C:\Users\t-rathap\source\repos\Auth\bin\Debug\netcoreapp2.2\Auth.dll
+C:\Users\t-rathap\source\repos\Auth\obj\Debug\netcoreapp2.2\Auth.csprojAssemblyReference.cache
+C:\Users\t-rathap\source\repos\Auth\obj\Debug\netcoreapp2.2\Auth.csproj.CoreCompileInputs.cache
+C:\Users\t-rathap\source\repos\Auth\obj\Debug\netcoreapp2.2\Auth.RazorAssemblyInfo.cache
+C:\Users\t-rathap\source\repos\Auth\obj\Debug\netcoreapp2.2\Auth.RazorAssemblyInfo.cs
+C:\Users\t-rathap\source\repos\Auth\obj\Debug\netcoreapp2.2\Auth.AssemblyInfoInputs.cache
+C:\Users\t-rathap\source\repos\Auth\obj\Debug\netcoreapp2.2\Auth.AssemblyInfo.cs
+C:\Users\t-rathap\source\repos\Auth\obj\Debug\netcoreapp2.2\Auth.RazorTargetAssemblyInfo.cache
+C:\Users\t-rathap\source\repos\Auth\bin\Debug\netcoreapp2.2\Auth.pdb
+C:\Users\t-rathap\source\repos\Auth\obj\Debug\netcoreapp2.2\Auth.dll
+C:\Users\t-rathap\source\repos\Auth\obj\Debug\netcoreapp2.2\Auth.pdb
